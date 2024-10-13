@@ -1,16 +1,24 @@
-# flutter_myresume_app
+# My Resume App
 
-A new Flutter project.
+The Mobile App displays my profile along with 5 buttons, each displaying details in a new page of my: 
 
-## Getting Started
+- About
+- Personal Information 
+- Skills 
+- Education
+- Experience
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Additional Features
+Added the following features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Light/dark mode toggle
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Google Doc Link
+
+- [GoogleDoc]( https://docs.google.com/document/d/1L5I67MB07m_ui0K_3JM6GMEX4du386ticL13OEkgo00/edit?usp=sharing "Google Document") 
+
+## 🔗 Screen Record Link
+
+- [YouTube]( https://youtu.be/bvVszfaaeco "YouTube Screen Record") 
+
